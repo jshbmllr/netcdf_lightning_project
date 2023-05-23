@@ -32,7 +32,7 @@ Provide a bounding box (or enter to quit):
 - You are free to use any language and libraries of your choice
   - You are highly encouraged to use a library to decode the NetCDF input
   - If a library exists that specifically decodes GOES GLM lightning data, you are discouraged from using it (as it trivializes the exercise and prevents us from getting an accurate understanding of your skills as a developer.)
-  - If you’re unsure, feel free to reach out to justin@shyftsolutions.io
+  - If you’re unsure, feel free to reach out to the team
 - Your code should be optimized for efficient retrieval of lightning strikes within a specified bounding box (assume data will be loaded/decoded once, and then multiple bounding box queries will be made against the decoded dataset.)
   - Do not chose a language based on efficiency: work in a language you are comfortable with and aim for an efficient solution in that language
 - Be prepared to talk about your design choices: language and library selection, algorithm selection, etc.
